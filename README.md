@@ -1,0 +1,2 @@
+# kkproject
+just for learning
